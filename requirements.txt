@@ -1,0 +1,2 @@
+reactpy>=1.0.0
+reactpy-router>=1.0.0
